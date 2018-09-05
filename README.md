@@ -1,1 +1,1 @@
-[![Deploy to Bluemix](https://hub.jazz.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/HappysurfBlocking/fetch-bak.git)  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+repository=https://github.com/HappysurfBlocking/fetch-bak.git)  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
